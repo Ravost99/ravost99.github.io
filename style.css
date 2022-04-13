@@ -1,3 +1,9 @@
 body {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: #031C1E;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    overflow: hidden;
+}
+iframe {
+    display: block;
+    margin: 0 auto;
 }
